@@ -6,7 +6,7 @@ We want your THCC to go smoothly! Instead of starting from scratch, following ar
 
 ## 2. Create a branch for your project
 
-All work for the project should be done on a branch named `project`, and after completing your project, you'll create a pull request to merge it to `main` or `master` -- see [GitHub to Replace Master with Main](https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/).
+All work for the project should be done on a branch named `project`, and after completing your project, you'll create a pull request to merge it `master` (NOTE: See [GitHub to Replace Master with Main](https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/).
 
 ## 3. Seed your project
 
