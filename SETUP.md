@@ -61,12 +61,6 @@ yarn start
 
 Push your seed project to your private repo to make sure everything is working.
 
-```bash
-git add .
-git commit -m "seed project"
-git push -u origin project
-```
-
 If you're reading this file, everything should be fine with permissions. But if for some reason this doesn't work, let us know!
 
 ## 5. Prepare your project
